@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>03229c91-7b8b-4aa7-9929-baa4ad5f3183</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>E35B6552CE128F43CCD9ECC611E4971EC715D40934FC07272FE72783CA2064C1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>03229c91-7b8b-4aa7-9929-baa4ad5f3183_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>03229c91-7b8b-4aa7-9929-baa4ad5f3183_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,32 +27,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-25T13:34:14.084</Modified>
+      <Modified>2023-11-30T22:10:51.397</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-25T13:33:20.081</Modified>
+      <Modified>2023-11-30T22:10:50.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.runtimeconfig.json">
       <PackagePath>Iacob_Isabela_Lab7.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-25T13:15:30.535</Modified>
+      <Modified>2023-11-30T22:10:50.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.dll">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.dll">
       <PackagePath>Iacob_Isabela_Lab7.dll</PackagePath>
-      <Modified>2023-11-25T13:34:12.556</Modified>
+      <Modified>2023-11-30T22:10:47.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Iacob_Isabela_Lab7.exe</PackagePath>
-      <Modified>2023-11-25T13:34:12.576</Modified>
+      <Modified>2023-11-30T22:10:47.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.deps.json">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Iacob_Isabela_Lab7.deps.json">
       <PackagePath>Iacob_Isabela_Lab7.deps.json</PackagePath>
-      <Modified>2023-11-25T13:33:19.731</Modified>
+      <Modified>2023-11-30T22:10:50.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.24\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1058,6 +1058,26 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-09-07T21:54:34.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+      <Modified>2020-09-03T17:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T17:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+      <Modified>2020-09-03T17:13:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1065,6 +1085,10 @@
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.windowsappsdk\1.1.5\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.maui.controls.ref.win\6.0.553\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1078,249 +1102,249 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-24T18:09:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-11-25T11:55:30.221</Modified>
+      <Modified>2023-11-30T21:41:39.021</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-25T11:56:07.918</Modified>
+      <Modified>2023-11-30T21:41:45.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-25T11:56:07.942</Modified>
+      <Modified>2023-11-30T21:41:45.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-25T11:56:07.966</Modified>
+      <Modified>2023-11-30T21:41:45.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-25T11:56:08.014</Modified>
+      <Modified>2023-11-30T21:41:45.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-25T11:56:08.199</Modified>
+      <Modified>2023-11-30T21:41:45.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-11-25T11:55:30.217</Modified>
+      <Modified>2023-11-30T21:41:45.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-11-25T11:55:30.219</Modified>
+      <Modified>2023-11-30T21:41:45.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-25T13:31:09.806</Modified>
+      <Modified>2023-11-30T21:41:45.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.170</Modified>
+      <Modified>2023-11-30T21:41:45.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.196</Modified>
+      <Modified>2023-11-30T21:41:45.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.210</Modified>
+      <Modified>2023-11-30T21:41:45.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.247</Modified>
+      <Modified>2023-11-30T21:41:45.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.356</Modified>
+      <Modified>2023-11-30T21:41:45.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.898</Modified>
+      <Modified>2023-11-30T21:41:45.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.902</Modified>
+      <Modified>2023-11-30T21:41:45.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.923</Modified>
+      <Modified>2023-11-30T21:41:45.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.906</Modified>
+      <Modified>2023-11-30T21:41:45.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.912</Modified>
+      <Modified>2023-11-30T21:41:45.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.870</Modified>
+      <Modified>2023-11-30T21:41:45.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.876</Modified>
+      <Modified>2023-11-30T21:41:45.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.894</Modified>
+      <Modified>2023-11-30T21:41:45.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.878</Modified>
+      <Modified>2023-11-30T21:41:45.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.882</Modified>
+      <Modified>2023-11-30T21:41:45.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.817</Modified>
+      <Modified>2023-11-30T21:41:45.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.821</Modified>
+      <Modified>2023-11-30T21:41:45.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.829</Modified>
+      <Modified>2023-11-30T21:41:45.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.833</Modified>
+      <Modified>2023-11-30T21:41:45.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.837</Modified>
+      <Modified>2023-11-30T21:41:45.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.842</Modified>
+      <Modified>2023-11-30T21:41:45.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.846</Modified>
+      <Modified>2023-11-30T21:41:45.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.866</Modified>
+      <Modified>2023-11-30T21:41:45.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.850</Modified>
+      <Modified>2023-11-30T21:41:45.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.856</Modified>
+      <Modified>2023-11-30T21:41:45.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.994</Modified>
+      <Modified>2023-11-30T21:41:45.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.002</Modified>
+      <Modified>2023-11-30T21:41:45.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.011</Modified>
+      <Modified>2023-11-30T21:41:45.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.026</Modified>
+      <Modified>2023-11-30T21:41:45.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.056</Modified>
+      <Modified>2023-11-30T21:41:45.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.958</Modified>
+      <Modified>2023-11-30T21:41:45.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.962</Modified>
+      <Modified>2023-11-30T21:41:45.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.966</Modified>
+      <Modified>2023-11-30T21:41:45.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.974</Modified>
+      <Modified>2023-11-30T21:41:45.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.986</Modified>
+      <Modified>2023-11-30T21:41:45.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.930</Modified>
+      <Modified>2023-11-30T21:41:45.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.934</Modified>
+      <Modified>2023-11-30T21:41:45.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.938</Modified>
+      <Modified>2023-11-30T21:41:45.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.946</Modified>
+      <Modified>2023-11-30T21:41:45.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.954</Modified>
+      <Modified>2023-11-30T21:41:45.597</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.066</Modified>
+      <Modified>2023-11-30T21:41:45.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.076</Modified>
+      <Modified>2023-11-30T21:41:45.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.087</Modified>
+      <Modified>2023-11-30T21:41:45.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.102</Modified>
+      <Modified>2023-11-30T21:41:45.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:10.154</Modified>
+      <Modified>2023-11-30T21:41:45.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cat.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cat.scale-100.png">
       <PackagePath>cat.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:07.296</Modified>
+      <Modified>2023-11-30T21:41:45.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.780</Modified>
+      <Modified>2023-11-30T21:41:45.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.792</Modified>
+      <Modified>2023-11-30T21:41:45.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.817</Modified>
+      <Modified>2023-11-30T21:41:45.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.846</Modified>
+      <Modified>2023-11-30T21:41:45.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-25T13:31:09.930</Modified>
+      <Modified>2023-11-30T21:41:45.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\Iacob_Isabela_Lab7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg">
+    <AppxPackagedFile Include="C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg">
       <PackagePath>shop_list.scale-100.jpg</PackagePath>
-      <Modified>2023-11-25T13:22:34.564</Modified>
+      <Modified>2023-11-30T21:41:45.606</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
