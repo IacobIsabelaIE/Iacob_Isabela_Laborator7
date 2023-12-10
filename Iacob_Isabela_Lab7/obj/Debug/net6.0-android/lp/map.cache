@@ -156,3 +156,10 @@ Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 SQLitePCLRaw.lib.e_sqlite3.android.dll
+FormsViewGroup.dll
+Xamarin.AndroidX.Preference.dll
+Xamarin.AndroidX.ProfileInstaller.ProfileInstaller.dll
+Xamarin.Forms.Platform.Android.dll
+Xamarin.Forms.Platform.dll
+androidx.profileinstaller.profileinstaller.aar
+androidx.preference.preference.aar
