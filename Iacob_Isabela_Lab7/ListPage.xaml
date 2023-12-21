@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Iacob_Isabela_Lab7.ListPage"
-             Title="ListPage">
-    <StackLayout Margin="20">
-        <Editor Placeholder="Enter the description of the shopping list"
-             Text="{Binding Description}"
-             HeightRequest="50" /> 
-        <Grid>
+<ContentPage.Content xmlns:local="clr-namespace:Nume_Pren_Lab7">
+	<StackLayout Margin="20">
+		<Editor Placeholder="Enter the description of the shopping list"
+		 Text="{Binding Description}"
+		 HeightRequest="50" >
+			<Editor.Behaviors>
+				<local:ValidationBehaviour />
+			</Editor.Behaviors>
+		</Editor>
+
+		<Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
@@ -30,4 +32,4 @@
         <Button Text="Add/Choose Item to buy" MaximumWidthRequest="300"
 Clicked="OnChooseButtonClicked"/>
     </StackLayout>
-</ContentPage>
+</ContentPage.Content>
