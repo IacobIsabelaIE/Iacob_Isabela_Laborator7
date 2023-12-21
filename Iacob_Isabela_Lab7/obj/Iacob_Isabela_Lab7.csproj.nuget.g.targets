@@ -74,7 +74,7 @@
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.legacy.support.core.ui\1.0.0.14\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.Core.UI.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.legacy.support.core.ui\1.0.0.14\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.Core.UI.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.legacy.support.v4\1.0.0.13\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.V4.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.legacy.support.v4\1.0.0.13\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.V4.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.browser\1.4.0.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Browser.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.browser\1.4.0.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Browser.targets')" />
-    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.security.securitycrypto\1.1.0-alpha03\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Security.SecurityCrypto.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.security.securitycrypto\1.1.0-alpha03\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Security.SecurityCrypto.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.lifecycle.livedata.core.ktx\2.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.lifecycle.livedata.core.ktx\2.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.fragment.ktx\1.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Fragment.Ktx.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.fragment.ktx\1.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Fragment.Ktx.targets')" />
@@ -86,13 +86,13 @@
     <Import Project="$(NuGetPackageRoot)xamarin.android.glide\4.12.0.8\buildTransitive\net6.0-android31.0\Xamarin.Android.Glide.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.android.glide\4.12.0.8\buildTransitive\net6.0-android31.0\Xamarin.Android.Glide.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-windows10.0.19041.0' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2612\buildTransitive\Xamarin.Forms.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms\5.0.0.2622\buildTransitive\Xamarin.Forms.targets')" />
     <Import Project="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22621.756\buildTransitive\Microsoft.Windows.SDK.BuildTools.targets" Condition="Exists('C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22621.756\buildTransitive\Microsoft.Windows.SDK.BuildTools.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.5\buildTransitive\Microsoft.WindowsAppSDK.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.5\buildTransitive\Microsoft.WindowsAppSDK.targets')" />
   </ImportGroup>

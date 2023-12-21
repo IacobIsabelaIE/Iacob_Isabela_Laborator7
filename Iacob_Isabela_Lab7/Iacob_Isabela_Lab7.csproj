@@ -49,9 +49,14 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <EmbeddedResource Remove="ShopEntryPage.xaml" />
+	  <EmbeddedResource Remove="ShopPage.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
 	  <PackageReference Include="SQLiteNetExtensions" Version="2.1.0" />
-	  <PackageReference Include="Xamarin.Forms" Version="5.0.0.2612" />
+	  <PackageReference Include="Xamarin.Forms" Version="5.0.0.2622" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -65,6 +70,12 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="ProductPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ShopEntryPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ShopPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

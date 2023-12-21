@@ -8,58 +8,70 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Iacob_Isabela_Lab7
-build_property.ProjectDir = C:\Users\Isa\Source\Repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\
+build_property.ProjectDir = C:\Users\Isa\source\repos\IacobIsabelaIE\Iacob_Isabela_Laborator7\Iacob_Isabela_Lab7\
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/AboutPage.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/App.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/AppShell.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ListEntryPage.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ListEntryPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.ListEntryPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ListEntryPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ListEntryPage.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ListPage.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.ListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ListPage.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/MainPage.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ProductPage.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ProductPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.ProductPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ProductPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ProductPage.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/Resources/Styles/Colors.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Isa/Source/Repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/Resources/Styles/Styles.xaml]
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ShopEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.ShopEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopEntryPage.xaml
+
+[C:/Users/Isa/source/repos/IacobIsabelaIE/Iacob_Isabela_Laborator7/Iacob_Isabela_Lab7/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Iacob_Isabela_Lab7.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopPage.xaml

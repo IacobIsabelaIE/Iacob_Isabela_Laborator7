@@ -6,36 +6,34 @@
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
+            Margin="30">
 
             <Image
                 Source="cat.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
+                WidthRequest="200" 
                 HorizontalOptions="Center" />
 
-            <Label
-                Text="Moew"
+                <Label
+                Text="Meow"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
-            <Label
+                <Label
                 Text="Cute cat photo"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                SemanticProperties.Description="Welcome to .NET Multi-platform App UI"
                 FontSize="18"
                 HorizontalOptions="Center" />
 
-            <Button
+                <Button
                 x:Name="CounterBtn"
                 Text="Click me"
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
-
         </VerticalStackLayout>
     </ScrollView>
-
 </ContentPage>
